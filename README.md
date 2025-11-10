@@ -9,8 +9,7 @@ This project is a machine learning model built to predict the total number of da
 
 You can view and interact with the deployed Streamlit app here:
 
-**[Live App Link](https://your-streamlit-app-url.streamlit.app/)** *(Note: You will get this URL after you deploy it on Streamlit Community Cloud)*
-
+**[Live App Link](https://bike-share-demand-prediction-naqshab.streamlit.app/)** 
 ---
 
 ## Project Findings
