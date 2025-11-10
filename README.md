@@ -1,6 +1,5 @@
 # Bike Share Demand Prediction
 
-![](https://i.imgur.com/example.png)
 
 This project is a machine learning model built to predict the total number of daily bike rentals (`cnt`) for a bike-sharing company based on seasonal and weather data.
 
