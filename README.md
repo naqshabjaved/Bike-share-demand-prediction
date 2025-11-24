@@ -25,6 +25,16 @@ Based on the model's coefficients, the **top 3 most significant variables** pred
 Other significant factors included temperature (`temp`), humidity (`hum`), and whether the day was a holiday (`holiday`).
 
 ---
+## Technologies Used
+
+* **Python**
+* **Pandas** & **Numpy** for data manipulation and feature engineering.
+* **Scikit-learn** for modeling (LinearRegression) and preprocessing.
+* **Matplotlib** & **Seaborn** for data visualization.
+* **Jupyter** for exploratory data analysis.
+* **Joblib** for saving and loading the model.
+* **Streamlit** for building and deploying the interactive web app.
+---
 
 ## How to Run This Project Locally
 
