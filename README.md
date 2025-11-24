@@ -34,5 +34,5 @@ Other significant factors included temperature (`temp`), humidity (`hum`), and w
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/Bike-Share-Demand-Prediction.git](https://github.com/your-username/Bike-Share-Demand-Prediction.git)
+git clone [https://github.com/naqshabjaved/Bike-Share-Demand-Prediction.git](https://github.com/naqshabjaved/Bike-Share-Demand-Prediction.git)
 cd Bike-Share-Demand-Prediction
